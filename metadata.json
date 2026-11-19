@@ -1,0 +1,6 @@
+{
+  "name": "FitTrack",
+  "description": "Your Daily Fitness Companion featuring interactive exercise library, workout tracker, step counter, and progress analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
